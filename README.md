@@ -86,14 +86,8 @@ Major changes:
 In order for the project to be deemed _successful_ and for you to receive a passing grade
 
 - you need to complete step 1 completely.
-- add at least 1 major improvement to the game, and 1 minor improvement.
-
-## Submission
-
-- Open a PR, as you normally would, against the parent repository.
-- Be sure to add screenshot(s) to the PR.
-- Deploy the project to Netlify
-- View this guide: https://docs.google.com/document/d/1J7ff9h77RMrQadgCM54eziW_Rj5_PAHYpQHYjf2ojZU/edit?usp=sharing
+- add at least 1 major improvement to the game.
+- add at least 1 minor improvement.
 
 ---
 
