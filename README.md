@@ -85,9 +85,9 @@ Major changes:
 
 In order for the project to be deemed _successful_ and for you to receive a passing grade
 
-- you need to complete step 1 completely.
-- add at least 1 major improvement to the game.
-- add at least 1 minor improvement.
+- you need to do step 1 completely.
+- add at least 1 major change.
+- add at least 1 minor change.
 
 ---
 
