@@ -14,7 +14,7 @@ _Because we split the code into many files, we need to add the `<script>` tags i
 
 ---
 
-## **The game**
+## **The Game**
 
 This game is called **I CAN HAZ CHEEZBURGER?!??**. In the game, you play as an anthropomorphic cheeseburger. The only thing you can do is move left or right with the arrows of your keyboard.
 
@@ -81,13 +81,24 @@ Major changes:
 
 ---
 
-## Project Success guidelines
+## Project Success Guidelines
 
 In order for the project to be deemed _successful_ and for you to receive a passing grade
 
 - you need to do step 1 completely.
 - add at least 1 major change.
 - add at least 1 minor change.
+
+---
+
+## Submitting the Project
+
+When submitting the pull request for your project, you must include comments that explain:
+- What minor changes were added to your game.
+- What major changes were added to your game.
+- A warning if there are sounds (music, sound effects, etc.)
+
+Screenshots are optional, but nice to have.
 
 ---
 
