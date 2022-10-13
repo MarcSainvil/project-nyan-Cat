@@ -26,7 +26,7 @@ At the moment, the game is a bit broken. This project will have you first fix th
 
 1. Open the `index.html` file in your browser, and observe what goes on when you load it.
 2. After reading the instructions of the project, **take a look at the provided code**. Don't worry if you don't understand _everything_, but try to get a general feel for what the code is doing. There are extensive comments throughout the code.
-3. Once the provided code has been consulted,go through the Assignment section at your own pace.
+3. Once the provided code has been consulted, go through the Assignment section at your own pace.
 
 ---
 
