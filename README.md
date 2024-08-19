@@ -1,3 +1,5 @@
+OPEN THE HTML FILE
+
 I CAN HAZ CHEEZBURGER?!?? - Game
 Welcome to I CAN HAZ CHEEZBURGER?!??, a fun and challenging game where you play as an anthropomorphic cheeseburger trying to survive the Nyan Cats raining from the sky! Your goal is to avoid the Nyan Cats and stay alive as long as possible to achieve the highest score.
 
