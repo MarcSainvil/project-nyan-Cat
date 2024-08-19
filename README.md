@@ -9,10 +9,9 @@ Welcome to I CAN HAZ CHEEZBURGER?!??, a fun and challenging game where you play 
 
 Features and Enhancements MADE BY ME
 Minor Change: More Players
-New Player Characters: I've added more player characters for you to choose from. Each character comes with a unique appearance, adding variety and personalization to the gameplay.
+New Player Characters: I've added more player characters for you to begin with,
 Major Change: Scoring System
-Score System: I implemented a scoring system that rewards players for surviving longer and avoiding enemies. Your score will increase over time, and you can track it during the game.
-
+Score System: I implemented a scoring system that rewards players for surviving longer and avoiding enemies. Your score will increase over time.
 How to Play
 Open the Game: Launch the game by opening the index.html file in your web browser.
 Choose Your Character: Select your preferred player character from the available options.
